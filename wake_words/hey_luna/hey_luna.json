@@ -1,5 +1,7 @@
 {
   "type": "micro",
+  "author": "NathanCu@community.home-assistant.io",
+  "website": "https://github.com/MorneSaunders360/home-ai",
   "wake_word": "hey luna",
   "model": "hey_luna.tflite",
   "trained_languages": [
